@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Enthusiasts.API.BoF.props" />
+</Project>

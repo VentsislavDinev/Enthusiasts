@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Enthusiasts.Services.Integrations.ClickUp.props" />
+</Project>
